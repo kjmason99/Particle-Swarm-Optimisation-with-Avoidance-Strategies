@@ -1,6 +1,8 @@
 # Particle-Swarm-Optimisation-with-Avoidance-Strategies
 This is a Java implementation of the Particle Swarm Optimisation with Avoidance of Worst Locations (PSO AWL) Algorithm. The algorithm is applied to 7 benchmark functions and has 4 implmented topologies. 
 
+The class myTest.java creates an instance of the PSO AWL algorithm. There are 4 subclasses of the PSO abstract class relating to a global, ring, von Neumann and GIDN topology. Each PSO variant creates a number of instances of the particle.java class which have positions, velocities and methods to update this information. The function class contains the objective functions that will evaluate candidate solutions. I have included 7 standard functions here but more can be added as desired.
+
 Please cite the following papers when publishing work relating this code :
 
 @article{mason2017multi,   
