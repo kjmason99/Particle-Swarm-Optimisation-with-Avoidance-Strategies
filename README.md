@@ -40,3 +40,10 @@ volume={62},
 pages={148--161},   
 year={2018},   
 publisher={Elsevier} }
+
+@article{mason2015avoidance,
+  title={Avoidance techniques \& neighbourhood topologies in particle swarm optimisation},
+  author={Mason, Karl and Howley, Enda},
+  journal={Master's thesis, National University of Ireland Galway},
+  year={2015}
+}
